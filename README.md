@@ -87,4 +87,4 @@ This indicates the model's performance on the test set and its ability to correc
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MIT License.
