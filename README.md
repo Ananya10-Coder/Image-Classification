@@ -1,5 +1,5 @@
 # MNIST Handwritten Digit Classification with Vision Transformers (ViT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananya10-Coder/Image-Classification/blob/main/ImageClassification_cleaned.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ananya10-Coder/Image-Classification/blob/main/ImageClassification.ipynb)
 
 This project demonstrates how to fine-tune a pre-trained Vision Transformer (ViT) model for image classification on the MNIST dataset. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9). The project includes data preprocessing, model fine-tuning, evaluation, and prediction on a single image.
 
